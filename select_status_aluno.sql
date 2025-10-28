@@ -1,0 +1,1 @@
+SELECT * FROM alunos WHERE status_matricula = "Ativo"
